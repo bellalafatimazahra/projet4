@@ -1,2 +1,6 @@
 # projet-prv
-creation d'un projet prevée
+comment instaler le projrt:
+'''
+cd descktop
+mkdir projet-prv
+git clone  
