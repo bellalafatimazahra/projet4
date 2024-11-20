@@ -1,7 +1,7 @@
 # projet-prv
 comment instaler le projrt:
 '''
-cd descktop
+cd bureau
 
 mkdir projet-prv
 
